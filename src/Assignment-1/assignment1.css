@@ -5,25 +5,3 @@
 width: 100%;
 height: 100%;
 }
-div#first{
-    height: 350px;
-    width: 50%;
-    float: left;
-}
-div#second{
-    height: 350px;
-    width: 50%;
-    float: right;
-    }
-
-div#third{
-    height: 350px;
-    width: 50%;
-    float: left;
-}
-div#fourth{
-    height: 350px;
-    width: 50%;
-    float: right;
-    justify-content: center;
-}
