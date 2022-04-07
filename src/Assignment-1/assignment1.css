@@ -25,5 +25,5 @@ div#fourth{
     height: 350px;
     width: 50%;
     float: right;
-    justify-content: center;
+    text-align: center;
 }
